@@ -6,7 +6,7 @@ pkgver=0.1.0
 pkgrel=1
 pkgdesc='CLI package manager for Modrinth projects: plugins, mods, shaders and resource packs'
 arch=('any')
-url='https://github.com/drygo/rinth'
+url='https://github.com/33drygo/rinth'
 license=('MIT')
 depends=('python>=3.11')
 makedepends=('python-build' 'python-installer' 'python-wheel' 'python-setuptools')
@@ -29,4 +29,5 @@ package() {
   install -Dm644 completions/rinth.fish \
     "$pkgdir/usr/share/fish/vendor_completions.d/rinth.fish"
   install -Dm644 README.md "$pkgdir/usr/share/doc/$pkgname/README.md"
+  install -Dm644 LICENSE "$pkgdir/usr/share/licenses/$pkgname/LICENSE"
 }
