@@ -1,5 +1,10 @@
 # rinth
 
+> [!WARNING]
+> Built entirely with **Claude Code**, for my own servers — use it at your own risk.
+> It moves when I need it to: expect fixes when something breaks for me rather
+> than a release schedule. Issues and pull requests are read and welcome.
+
 A CLI package manager for [Modrinth](https://modrinth.com) projects, aimed at the
 `plugins/` folder of a Minecraft server but equally happy with mods, shaders and
 resource packs. Declarative manifest, reproducible lockfile, dependency
