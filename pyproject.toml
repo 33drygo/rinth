@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rinth"
+description = "CLI package manager for Modrinth projects: plugins, mods, shaders and resource packs"
+readme = "README.md"
+requires-python = ">=3.11"          # tomllib
+license = "MIT"
+dynamic = ["version"]
+dependencies = []                   # stdlib only, on purpose
+
+[project.scripts]
+rinth = "rinth.cli:main"
+
+[tool.setuptools]
+packages = ["rinth"]
+
+[tool.setuptools.dynamic]
+version = { attr = "rinth.__version__" }

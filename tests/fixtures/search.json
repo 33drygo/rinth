@@ -1,0 +1,114 @@
+{
+ "hits": [
+  {
+   "slug": "vault-2.0-economy-plugins",
+   "title": "Vault 2.0 economy plugins",
+   "description": "What is Vault2.0?\nVault2.0 is an economy plugin that registers a Bukkit Economy service compatible with the Vault API, allowing other plugins (shops, ranks, etc.) to use money without depending on the original Vault.jar. It includes menus, pay/charge flows",
+   "downloads": 96867,
+   "project_type": "mod",
+   "all_project_types": [
+    "plugin"
+   ],
+   "categories": [
+    "bukkit",
+    "bungeecord",
+    "economy",
+    "management",
+    "paper",
+    "purpur",
+    "social",
+    "spigot",
+    "storage",
+    "utility"
+   ]
+  },
+  {
+   "slug": "economygui",
+   "title": "EconomyGUI",
+   "description": "Economy GUI a powerful and intuitive Minecraft plugin for efficient economy management using a beautiful GUI!",
+   "downloads": 15370,
+   "project_type": "mod",
+   "all_project_types": [
+    "plugin"
+   ],
+   "categories": [
+    "bukkit",
+    "economy",
+    "game-mechanics",
+    "management",
+    "paper",
+    "purpur",
+    "social",
+    "spigot",
+    "storage",
+    "technology",
+    "utility"
+   ]
+  },
+  {
+   "slug": "economybridge",
+   "title": "EconomyBridge",
+   "description": "A lightweight library plugin to handle multiple various currency and custom item plugins.",
+   "downloads": 11737,
+   "project_type": "mod",
+   "all_project_types": [
+    "plugin"
+   ],
+   "categories": [
+    "economy",
+    "library",
+    "management",
+    "paper",
+    "purpur",
+    "spigot",
+    "utility"
+   ]
+  },
+  {
+   "slug": "divinity-economy",
+   "title": "Divinity Economy (Global Market)",
+   "description": "A global dynamic market with the ability to buy and sell every item, enchants and experience in the game, and scales with supply and demand. A truly revolutionary and unique plugin packed with tons of features.",
+   "downloads": 10837,
+   "project_type": "mod",
+   "all_project_types": [
+    "plugin"
+   ],
+   "categories": [
+    "bukkit",
+    "economy",
+    "equipment",
+    "food",
+    "game-mechanics",
+    "management",
+    "paper",
+    "purpur",
+    "spigot",
+    "storage",
+    "technology",
+    "utility"
+   ]
+  },
+  {
+   "slug": "economyshopbuyaddon",
+   "title": "EconomyShopBuyAddon",
+   "description": "An addon plugin that adds a \"/buy\" command to purchase items directly from your existing shop plugin e.g. EconomyShopGui.",
+   "downloads": 9900,
+   "project_type": "mod",
+   "all_project_types": [
+    "plugin"
+   ],
+   "categories": [
+    "adventure",
+    "bukkit",
+    "economy",
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ]
+  }
+ ],
+ "offset": 0,
+ "limit": 5,
+ "total_hits": 401
+}

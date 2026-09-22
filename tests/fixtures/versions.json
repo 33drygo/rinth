@@ -1,0 +1,1020 @@
+{
+ "luckperms": [
+  {
+   "id": "cLEqLHhz",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.85-neoforge",
+   "version_type": "release",
+   "loaders": [
+    "neoforge"
+   ],
+   "game_versions": [
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-09-19T07:45:35.628116Z",
+   "downloads": 580,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-NeoForge-5.5.85.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/cLEqLHhz/LuckPerms-NeoForge-5.5.85.jar",
+     "size": 1475769,
+     "primary": true,
+     "hashes": {
+      "sha512": "be3d62b3f03e374f057a59048d8aa41cde50362f4654619650d2b96b8be003d2fa1ee9c8256dcd2d116163dc1c77b56d0c73e6b68eb797addee06fbb3a965f33"
+     }
+    }
+   ]
+  },
+  {
+   "id": "DzQPkkXY",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.85-fabric",
+   "version_type": "release",
+   "loaders": [
+    "fabric"
+   ],
+   "game_versions": [
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-09-19T07:45:19.861990Z",
+   "downloads": 1907,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-Fabric-5.5.85.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/DzQPkkXY/LuckPerms-Fabric-5.5.85.jar",
+     "size": 1634800,
+     "primary": true,
+     "hashes": {
+      "sha512": "37de9e16272b6bbf82f422ddf012fa810d32c617c5621919157b662b4edfe956a870c5bc3ca4b05f32c90d7135f0ac2580ea16cd7c481c26a04778f639c3f89c"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2y6lwN5R",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.85-forge",
+   "version_type": "release",
+   "loaders": [
+    "forge"
+   ],
+   "game_versions": [
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-09-19T07:45:04.136014Z",
+   "downloads": 56,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-Forge-5.5.85.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/2y6lwN5R/LuckPerms-Forge-5.5.85.jar",
+     "size": 1470224,
+     "primary": true,
+     "hashes": {
+      "sha512": "0cbc05ad96b8da70e23bd1e8cb1981a9e6aea5609209d64fa8d109a7d6b4bb8d85e78b84751f885566ac649c7cb330616dcce860089f7c212926dab7d0c4520c"
+     }
+    }
+   ]
+  },
+  {
+   "id": "tamnmXad",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.71-velocity",
+   "version_type": "release",
+   "loaders": [
+    "velocity"
+   ],
+   "game_versions": [
+    "1.8.9",
+    "1.9",
+    "1.9.1",
+    "1.9.2",
+    "1.9.3",
+    "1.9.4",
+    "1.10",
+    "1.10.1",
+    "1.10.2",
+    "1.11",
+    "1.11.1",
+    "1.11.2",
+    "1.12",
+    "1.12.1",
+    "1.12.2",
+    "1.13",
+    "1.13.1",
+    "1.13.2",
+    "1.14",
+    "1.14.1",
+    "1.14.2",
+    "1.14.3",
+    "1.14.4",
+    "1.15",
+    "1.15.1",
+    "1.15.2",
+    "1.16",
+    "1.16.1",
+    "1.16.2",
+    "1.16.3",
+    "1.16.4",
+    "1.16.5",
+    "1.17",
+    "1.17.1",
+    "1.18",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.1",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-08-06T19:40:25.429053Z",
+   "downloads": 28068,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-Velocity-5.5.71.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/tamnmXad/LuckPerms-Velocity-5.5.71.jar",
+     "size": 1512294,
+     "primary": true,
+     "hashes": {
+      "sha512": "a619da8804727bed7b2b2ee5383974329a3c09181a67745484fdffd0f4b6c5b13c44aa88e0d2b30d13f3068d9b0f3e26863abba9855f80a7eb5f9455ca6c40d4"
+     }
+    }
+   ]
+  },
+  {
+   "id": "GzZ3XpCZ",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.71-bungee",
+   "version_type": "release",
+   "loaders": [
+    "bungeecord",
+    "waterfall"
+   ],
+   "game_versions": [
+    "1.8.9",
+    "1.9",
+    "1.9.1",
+    "1.9.2",
+    "1.9.3",
+    "1.9.4",
+    "1.10",
+    "1.10.1",
+    "1.10.2",
+    "1.11",
+    "1.11.1",
+    "1.11.2",
+    "1.12",
+    "1.12.1",
+    "1.12.2",
+    "1.13",
+    "1.13.1",
+    "1.13.2",
+    "1.14",
+    "1.14.1",
+    "1.14.2",
+    "1.14.3",
+    "1.14.4",
+    "1.15",
+    "1.15.1",
+    "1.15.2",
+    "1.16",
+    "1.16.1",
+    "1.16.2",
+    "1.16.3",
+    "1.16.4",
+    "1.16.5",
+    "1.17",
+    "1.17.1",
+    "1.18",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.1",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-08-06T19:40:18.106636Z",
+   "downloads": 527,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-Bungee-5.5.71.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/GzZ3XpCZ/LuckPerms-Bungee-5.5.71.jar",
+     "size": 1404122,
+     "primary": true,
+     "hashes": {
+      "sha512": "cd7e024f9a17eb780ed2ffe12aa0551434e5c49005d0dacc7bf99733c89876bde439b191b78ccf7c96cfe98feeaae6b1dcae2ddd59ff0905f3b9a83cfac4b46d"
+     }
+    }
+   ]
+  },
+  {
+   "id": "b0mk8uS6",
+   "project_id": "Vebnzrzj",
+   "version_number": "v5.5.71-bukkit",
+   "version_type": "release",
+   "loaders": [
+    "bukkit",
+    "folia",
+    "paper",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.8.9",
+    "1.9",
+    "1.9.1",
+    "1.9.2",
+    "1.9.3",
+    "1.9.4",
+    "1.10",
+    "1.10.1",
+    "1.10.2",
+    "1.11",
+    "1.11.1",
+    "1.11.2",
+    "1.12",
+    "1.12.1",
+    "1.12.2",
+    "1.13",
+    "1.13.1",
+    "1.13.2",
+    "1.14",
+    "1.14.1",
+    "1.14.2",
+    "1.14.3",
+    "1.14.4",
+    "1.15",
+    "1.15.1",
+    "1.15.2",
+    "1.16",
+    "1.16.1",
+    "1.16.2",
+    "1.16.3",
+    "1.16.4",
+    "1.16.5",
+    "1.17",
+    "1.17.1",
+    "1.18",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.1",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4",
+    "1.20.5",
+    "1.20.6",
+    "1.21",
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4",
+    "1.21.5",
+    "1.21.6",
+    "1.21.7",
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2",
+    "26.3"
+   ],
+   "date_published": "2026-08-06T19:40:10.637955Z",
+   "downloads": 128375,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "LuckPerms-Bukkit-5.5.71.jar",
+     "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/b0mk8uS6/LuckPerms-Bukkit-5.5.71.jar",
+     "size": 1501521,
+     "primary": true,
+     "hashes": {
+      "sha512": "188a91f0a543d23bfda32385fca6db63d61e49c8a422bd452a260bd9cbc6a7d7fe45071199e9fca8f3ce43c2b41ee84fd315bd15464577028ff3951a7d4fab27"
+     }
+    }
+   ]
+  }
+ ],
+ "excellentcrates-virtual-key-placeholder": [
+  {
+   "id": "qLAIDS7K",
+   "project_id": "hULm4VXD",
+   "version_number": "2.1",
+   "version_type": "release",
+   "loaders": [
+    "bukkit",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "26.2"
+   ],
+   "date_published": "2026-08-29T21:04:43.389411Z",
+   "downloads": 160,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "TdefKtjL",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "lKEzGugV",
+     "file_name": null,
+     "dependency_type": "required"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ecrates-placeholderv2.1.jar",
+     "url": "https://cdn.modrinth.com/data/hULm4VXD/versions/qLAIDS7K/ecrates-placeholderv2.1.jar",
+     "size": 5440,
+     "primary": true,
+     "hashes": {
+      "sha512": "b06f59d1857288886deaa70b965bca747294a5182d46af19bb2812545fbe7c2313cc055c7db5b55f5fadcf916548d1edd1a24e20f7917be7618cf094c7f98de7"
+     }
+    }
+   ]
+  },
+  {
+   "id": "fS0v0bjP",
+   "project_id": "hULm4VXD",
+   "version_number": "v2.0",
+   "version_type": "release",
+   "loaders": [
+    "bukkit",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "26.2"
+   ],
+   "date_published": "2026-07-15T22:30:18.204734Z",
+   "downloads": 261,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "lKEzGugV",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "TdefKtjL",
+     "file_name": null,
+     "dependency_type": "required"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ecrates-placeholderv2.jar",
+     "url": "https://cdn.modrinth.com/data/hULm4VXD/versions/fS0v0bjP/ecrates-placeholderv2.jar",
+     "size": 5104,
+     "primary": true,
+     "hashes": {
+      "sha512": "3dec18a4ba34e9fc6eb18dda47162a6c9a87d7160c3021c1c73cc2769fa17452680408ac7a3c3984b9cd833e451ee72d66aeb2c8fe8ffeab213cdac8137736fe"
+     }
+    }
+   ]
+  },
+  {
+   "id": "k45wK4Ns",
+   "project_id": "hULm4VXD",
+   "version_number": "v1.0",
+   "version_type": "release",
+   "loaders": [
+    "bukkit",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+   ],
+   "date_published": "2026-03-13T17:46:10.459231Z",
+   "downloads": 805,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "TdefKtjL",
+     "file_name": null,
+     "dependency_type": "required"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ecrates-placeholder.jar",
+     "url": "https://cdn.modrinth.com/data/hULm4VXD/versions/k45wK4Ns/ecrates-placeholder.jar",
+     "size": 4900,
+     "primary": true,
+     "hashes": {
+      "sha512": "4505d007f3ee0c8f5a31a1ee49971543fe342dd6a5cb869e9c2d437dc1d469e440c0fac3966bd87bb0aa5cf6e01b11237009813a4e14e56e2c3828ed56f98687"
+     }
+    }
+   ]
+  }
+ ],
+ "excellentcrates": [
+  {
+   "id": "iZVIXY6R",
+   "project_id": "TdefKtjL",
+   "version_number": "6.6.1",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+   ],
+   "date_published": "2025-12-13T21:29:57.798881Z",
+   "downloads": 68579,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.6.1.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/iZVIXY6R/ExcellentCrates-6.6.1.jar",
+     "size": 599925,
+     "primary": true,
+     "hashes": {
+      "sha512": "ee11a330acc46efe8f2c7078ae59bec82e6000a42ed30c81ed7a42c0a11c5027b06f1124f0caea739d7b5e946ddf8cab576d3a87d62153d61dd5140a26d29b1d"
+     }
+    }
+   ]
+  },
+  {
+   "id": "M7vWUk0q",
+   "project_id": "TdefKtjL",
+   "version_number": "6.6.0",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11"
+   ],
+   "date_published": "2025-12-12T14:06:33.457040Z",
+   "downloads": 2019,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    },
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.6.0.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/M7vWUk0q/ExcellentCrates-6.6.0.jar",
+     "size": 599768,
+     "primary": true,
+     "hashes": {
+      "sha512": "b64f12b0815254255179cf32564e610917451ac825a0664e0f9e8b64d00a26eae145a1f9729f955cd62371f7ef4e002a9c4bf20bc69d59759b4baec1d6c49974"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dBJ4uNCH",
+   "project_id": "TdefKtjL",
+   "version_number": "6.5.1",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10"
+   ],
+   "date_published": "2025-11-10T11:40:55.804425Z",
+   "downloads": 3644,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.5.1.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/dBJ4uNCH/ExcellentCrates-6.5.1.jar",
+     "size": 586973,
+     "primary": true,
+     "hashes": {
+      "sha512": "6f5c8b22a511667ec6fd08b9d96ec773ca0286d6ac575cad2ec93b1225296a075d9ff56548cced09b2f245d4fc4b59470293743162776090a15a64cfcf5ed55e"
+     }
+    }
+   ]
+  },
+  {
+   "id": "2eHhpR4C",
+   "project_id": "TdefKtjL",
+   "version_number": "6.5.0",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10"
+   ],
+   "date_published": "2025-11-07T13:18:18.036537Z",
+   "downloads": 653,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.5.0.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/2eHhpR4C/ExcellentCrates-6.5.0.jar",
+     "size": 586974,
+     "primary": true,
+     "hashes": {
+      "sha512": "7c87ebd1b34c3ea122ed137edd1b6fc7073992a94188471d453d8a8bc44144dd1e27c71138b6f83bf2761f5d4c7268c69483430021393d22ed56597ea35d8065"
+     }
+    }
+   ]
+  },
+  {
+   "id": "6lDL5raA",
+   "project_id": "TdefKtjL",
+   "version_number": "6.4.2",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10"
+   ],
+   "date_published": "2025-10-22T19:57:20.836822Z",
+   "downloads": 1616,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.4.2.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/6lDL5raA/ExcellentCrates-6.4.2.jar",
+     "size": 583890,
+     "primary": true,
+     "hashes": {
+      "sha512": "e7fb0bdf87c648e6c946b976e2b1f04a75cf9dae20d7ea5561d4038522e9a5c46d6aa96c4177b17e544f72a9c701dd8214681c8af99fc7d96b6d7241d7db14e7"
+     }
+    }
+   ]
+  },
+  {
+   "id": "k8Wqd6YW",
+   "project_id": "TdefKtjL",
+   "version_number": "6.4.1",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10"
+   ],
+   "date_published": "2025-10-16T21:30:24.047085Z",
+   "downloads": 782,
+   "dependencies": [
+    {
+     "version_id": null,
+     "project_id": "Y4NRwMW5",
+     "file_name": null,
+     "dependency_type": "required"
+    },
+    {
+     "version_id": null,
+     "project_id": "HYKaKraK",
+     "file_name": null,
+     "dependency_type": "optional"
+    }
+   ],
+   "files": [
+    {
+     "filename": "ExcellentCrates-6.4.1.jar",
+     "url": "https://cdn.modrinth.com/data/TdefKtjL/versions/k8Wqd6YW/ExcellentCrates-6.4.1.jar",
+     "size": 583724,
+     "primary": true,
+     "hashes": {
+      "sha512": "ecf479acca327a9a8fb224399eec08a377e36fef7af3576c0901cbf2058548b7703cbe7ef5d42c30fa23d486d035c50157f3db81bcebf7d9b081c7f3d6459f58"
+     }
+    }
+   ]
+  }
+ ],
+ "nightcore": [
+  {
+   "id": "vDmXDRvE",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.16.4",
+   "version_type": "release",
+   "loaders": [
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+   ],
+   "date_published": "2026-07-16T19:45:00.178778Z",
+   "downloads": 36406,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.16.4.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/vDmXDRvE/nightcore-2.16.4.jar",
+     "size": 1552224,
+     "primary": true,
+     "hashes": {
+      "sha512": "7a3057a4dae271cd86eff7eba33479e50198d338c9cb27497fd9e1584640d22dc83b689ed7599a31eaf382084dc052d63c05262df3e662e776648e64f48d9c15"
+     }
+    }
+   ]
+  },
+  {
+   "id": "WPkYIP4c",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.16.3",
+   "version_type": "release",
+   "loaders": [
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2",
+    "26.2"
+   ],
+   "date_published": "2026-07-04T14:37:04.928902Z",
+   "downloads": 7942,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.16.3.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/WPkYIP4c/nightcore-2.16.3.jar",
+     "size": 1547846,
+     "primary": true,
+     "hashes": {
+      "sha512": "4373d9ece9395f92ad1ffbf1cb50188b1c4d61f222f0f99abdd50d78fc52284109bdfb53c2b2f5697fe13d73731a157349bf46eca568c48e2e1d8f44bf86f02f"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V3X0pOQr",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.16.2",
+   "version_type": "release",
+   "loaders": [
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+   ],
+   "date_published": "2026-06-08T15:44:56.917368Z",
+   "downloads": 12094,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.16.2.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/V3X0pOQr/nightcore-2.16.2.jar",
+     "size": 1534179,
+     "primary": true,
+     "hashes": {
+      "sha512": "06beb06e3a58b48cfe8260a7219e7f3a018fd05ba7b97621d0937e3c9438c2c3eddafd0153b65b7b75443db6908f7b1d64b9345bcf3b2fdbea4125c41cbf23be"
+     }
+    }
+   ]
+  },
+  {
+   "id": "6lDamjIK",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.16.1",
+   "version_type": "release",
+   "loaders": [
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+   ],
+   "date_published": "2026-06-02T12:41:34.913399Z",
+   "downloads": 3049,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.16.1.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/6lDamjIK/nightcore-2.16.1.jar",
+     "size": 1522171,
+     "primary": true,
+     "hashes": {
+      "sha512": "f08d03eabc9568aa69aba0f19e1a58281042902e1e175c554e1d0879cd5cd80054c436195f94de87500869211152b601fa41dac6a87af9ff142cda4973af27aa"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dgxTcBEl",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.16.0",
+   "version_type": "release",
+   "loaders": [
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+   ],
+   "date_published": "2026-06-01T17:12:19.068946Z",
+   "downloads": 482,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.16.0.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/dgxTcBEl/nightcore-2.16.0.jar",
+     "size": 1521115,
+     "primary": true,
+     "hashes": {
+      "sha512": "4ef334a2640856a2c40521b678f59c400d508963128f157d86d2e6c800bc3e1ec9dd8e4204a7154ce714e3b823ab3d326fec60de58e00d8606fa76de87bd5ef9"
+     }
+    }
+   ]
+  },
+  {
+   "id": "Pgcu4VkO",
+   "project_id": "Y4NRwMW5",
+   "version_number": "2.15.2",
+   "version_type": "release",
+   "loaders": [
+    "folia",
+    "paper",
+    "purpur",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.21.8",
+    "1.21.9",
+    "1.21.10",
+    "1.21.11",
+    "26.1",
+    "26.1.1",
+    "26.1.2"
+   ],
+   "date_published": "2026-04-24T22:11:01.326344Z",
+   "downloads": 14785,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "nightcore-2.15.2.jar",
+     "url": "https://cdn.modrinth.com/data/Y4NRwMW5/versions/Pgcu4VkO/nightcore-2.15.2.jar",
+     "size": 1480948,
+     "primary": true,
+     "hashes": {
+      "sha512": "4946ad91b7671de6868fce786eeb2863e760ff2e7166c7cd9e7d2375ef8e172aad863b88e3cee387e3f8e15c05f6be63c5a8bb6b5e63bff6e5a91d7b27645e69"
+     }
+    }
+   ]
+  }
+ ],
+ "discord-placeholders": [
+  {
+   "id": "pHbm7rc9",
+   "project_id": "kFTjSnHx",
+   "version_number": "1.3",
+   "version_type": "release",
+   "loaders": [
+    "bukkit",
+    "spigot"
+   ],
+   "game_versions": [
+    "1.16",
+    "1.16.1",
+    "1.16.2",
+    "1.16.3",
+    "1.16.4",
+    "1.16.5",
+    "1.17",
+    "1.17.1",
+    "1.18",
+    "1.18.1",
+    "1.18.2",
+    "1.19",
+    "1.19.1",
+    "1.19.2",
+    "1.19.3",
+    "1.19.4",
+    "1.20",
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4"
+   ],
+   "date_published": "2024-03-07T16:38:58.167899Z",
+   "downloads": 196,
+   "dependencies": [],
+   "files": [
+    {
+     "filename": "DiscordPlaceholders-1.3.jar",
+     "url": "https://cdn.modrinth.com/data/kFTjSnHx/versions/pHbm7rc9/DiscordPlaceholders-1.3.jar",
+     "size": 116786,
+     "primary": true,
+     "hashes": {
+      "sha512": "583662c870fdbd2f3819f6382c5f880ac16f15d28049bea107284f157c10ef94fd7058f644149a2013a98c8d46894dd1827247d8cb7db1f0f55f43d0f33237ab"
+     }
+    }
+   ]
+  }
+ ]
+}
